@@ -8,4 +8,4 @@
 
 <img src="photo/qw.jpg" style="width: 100%; object-fit: cover;"/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LanGraFyodor.portfolio-java-academy">
+
